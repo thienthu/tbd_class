@@ -52,6 +52,9 @@ The dataset and competition details are hosted on Kaggle:
    - Provide reasoning for modeling decisions.
    - Highlight limitations and potential improvements.
 
+## 📊 Model
+Model is store in 🔗[google_drive_link](https://drive.google.com/drive/folders/1pJ9gTCvN_JPkg0XLqHmT_oSMTSKMGfIq?usp=sharing)
+
 ## 📝 Author
 Thu Nguyen
 This project was developed as part of the Machine Learning for Life Sciences course at Ghent University.
