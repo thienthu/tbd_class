@@ -33,9 +33,6 @@ The dataset and competition details are hosted on Kaggle:
    - Standardize inputs.
 
 3. **Model Training**  
-   Explore and compare various classification models such as:
-   - Logistic Regression (baseline)
-   - Random Forest / XGBoost
    - Multi-label Neural Networks
 
 4. **Model Evaluation**  
