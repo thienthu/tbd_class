@@ -30,7 +30,7 @@ The dataset and competition details are hosted on Kaggle:
 
 2. **Feature Engineering & Preprocessing**  
    - Encode features as needed (e.g. categorical → one-hot or embeddings).
-   - Handle missing data and standardize inputs.
+   - Standardize inputs.
 
 3. **Model Training**  
    Explore and compare various classification models such as:
